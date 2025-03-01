@@ -44,8 +44,8 @@ your todos efficiently using a robust backend system.
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/alsaifi08017/todo-api.git
-   cd todo-api
+   git clone https://github.com/alsaifi08017/todo-app.git
+   cd todo-app
    ```
 2. Install dependencies:
    ```sh
