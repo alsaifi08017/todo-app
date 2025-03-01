@@ -81,9 +81,6 @@ npm test
 ```
 We use Jest for testing and Supertest for making HTTP requests during testing.
 
-## Contributing
-Contributions are welcome! Please read the [CONTRIBUTING.md](./docs/CONTRIBUTING.md) file for guidelines on how to
-contribute to this project.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+
